@@ -84,13 +84,13 @@
         \parbox<t>[t]{55truemm}{\hfil\@sendername}\hfil}
     \put(4.5,25){ %
       \vtop to 6.5truemm{\vfil\hbox{\fontsize{12pt}{0pt}\selectfont%
-        \hbox to 4truemm{\hfil\StrChar{#3}{1}\hfil}%
-        \hbox to 4truemm{\hfil\StrChar{#3}{2}\hfil}%
-        \hbox to 4truemm{\hfil\StrChar{#3}{3}\hfil}\hskip1truemm %
-        \hbox to 4truemm{\hfil\StrChar{#3}{4}\hfil}%
-        \hbox to 4truemm{\hfil\StrChar{#3}{5}\hfil}%
-        \hbox to 4truemm{\hfil\StrChar{#3}{6}\hfil}%
-        \hbox to 4truemm{\hfil\StrChar{#3}{7}\hfil}%
+        \hbox to 4truemm{\hfil\StrChar{\@senderpostcode}{1}\hfil}%
+        \hbox to 4truemm{\hfil\StrChar{\@senderpostcode}{2}\hfil}%
+        \hbox to 4truemm{\hfil\StrChar{\@senderpostcode}{3}\hfil}\hskip1truemm %
+        \hbox to 4truemm{\hfil\StrChar{\@senderpostcode}{4}\hfil}%
+        \hbox to 4truemm{\hfil\StrChar{\@senderpostcode}{5}\hfil}%
+        \hbox to 4truemm{\hfil\StrChar{\@senderpostcode}{6}\hfil}%
+        \hbox to 4truemm{\hfil\StrChar{\@senderpostcode}{7}\hfil}%
     }\vfil}}
   \end{picture} %
 }
