@@ -51,7 +51,7 @@ For example of use, see example.tex.
 COPYRIGHT & LISENCE
 -------------------
 
-Copyright (c) 2013 Shin'ya Ueoka.
+Copyright (c) 2013-2014 Shin'ya Ueoka.
 
 This software is released under the MIT License, see LICENSE.
 
