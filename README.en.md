@@ -9,7 +9,7 @@ address are listed in the PDF Bookmarks if you use dvipdfmx.
 ![BDF bookmark](pdfbookmark.png)
 
 
-USAGE
+Usage
 -----
 
 First specify a document class in the top of the TeX document.
@@ -48,10 +48,7 @@ receiver's name, postcode, and address between `\begin{document}` and
 For example of use, see example.tex.
 
 
-COPYRIGHT & LISENCE
--------------------
+Licence
+-------
 
-Copyright (c) 2013-2014 Shin'ya Ueoka.
-
-This software is released under the MIT License, see LICENSE.
-
+MIT

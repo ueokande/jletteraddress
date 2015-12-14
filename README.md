@@ -9,7 +9,7 @@ dvipdfmxを使っているなら，宛名はPDFのしおりに一覧表示する
 ![BDF bookmark](pdfbookmark.png)
 
 
-USAGE
+Usage
 -----
 
 まず，ドキュメントクラスを，TeXドキュメントの先頭に記述します．
@@ -45,9 +45,7 @@ USAGE
 使用例は，example.texを参照してください．
 
 
-COPYRIGHT & LISENCE 
--------------------
+Licence
+-------
 
-Copyright (c) 2013-2014 Shin'ya Ueoka.
-
-This software is released under the MIT License, see LICENSE. 
+MIT
